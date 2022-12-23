@@ -1,0 +1,15 @@
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\bin\Debug\net7.0\DocumentSystem.exe
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\bin\Debug\net7.0\DocumentSystem.deps.json
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\bin\Debug\net7.0\DocumentSystem.runtimeconfig.json
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\bin\Debug\net7.0\DocumentSystem.dll
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\bin\Debug\net7.0\DocumentSystem.pdb
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.csproj.AssemblyReference.cache
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.AssemblyInfoInputs.cache
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.AssemblyInfo.cs
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.dll
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\refint\DocumentSystem.dll
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.pdb
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\DocumentSystem.genruntimeconfig.cache
+F:\visualstudio\rep\DocumentSystem\DocumentSystem\obj\Debug\net7.0\ref\DocumentSystem.dll
